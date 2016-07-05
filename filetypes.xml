@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="symfony-deploy" type="PHP" />
+      <mapping pattern="package-update-skel" type="PHP" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern="..gitmodules.swp" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
