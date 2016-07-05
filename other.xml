@@ -47,6 +47,12 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="rmf@src.run" />
+    <option name="ITN_PASSWORD_CRYPT" value="dGVpbmdlbipATDAzOTE=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/node">
       <version-cache version="5.12.0" last-modified="1466750006000" />
