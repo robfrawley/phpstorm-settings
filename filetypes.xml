@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="construc" type="PHP" />
       <mapping pattern="symfony-deploy" type="PHP" />
       <mapping pattern="package-update-skel" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
