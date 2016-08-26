@@ -1,5 +1,29 @@
 <application>
   <component name="libraryTable">
+    <library name="addressable (v2.4.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.4.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.12.5, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.12.5/bin" />
@@ -50,6 +74,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
+    <library name="digest-crc (v0.4.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/digest-crc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/digest-crc-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="digest-crc (v0.4.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/digest-crc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/digest-crc-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="english (v0.6.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/english-0.6.3/lib" />
@@ -58,6 +98,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/english-0.6.3/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/english-0.6.3/meta" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.2, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.9.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.10, ruby-2.3.1-p112) [gem]">
@@ -82,6 +138,126 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/ffi-hunspell-0.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="gcloud (v0.12.2, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/gcloud-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/gcloud-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gcloud (v0.12.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/gcloud-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/gcloud-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="google-api-client (v0.9.12, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/generated" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/third_party" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/generated" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/third_party" />
+      </SOURCES>
+    </library>
+    <library name="google-api-client (v0.9.12, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/generated" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/third_party" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/generated" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-api-client-0.9.12/third_party" />
+      </SOURCES>
+    </library>
+    <library name="google-protobuf (v3.0.0.alpha.5.0.5.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/tests" />
+      </SOURCES>
+    </library>
+    <library name="google-protobuf (v3.0.0.alpha.5.0.5.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/google-protobuf-3.0.0.alpha.5.0.5.1-x86_64-linux/tests" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.5.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/googleauth-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/googleauth-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.5.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/googleauth-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/googleauth-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="grpc (v1.0.0.pre1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/etc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/include" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/third_party" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/etc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/include" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/third_party" />
+      </SOURCES>
+    </library>
+    <library name="grpc (v1.0.0.pre1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/etc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/include" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/third_party" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/etc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/include" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/grpc-1.0.0.pre1-x86_64-linux/third_party" />
+      </SOURCES>
+    </library>
     <library name="highline (v1.7.8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/highline-1.7.8/lib" />
@@ -92,12 +268,294 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/highline-1.7.8/site" />
       </SOURCES>
     </library>
+    <library name="httpclient (v2.8.2.2, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="httpclient (v2.8.2.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/httpclient-2.8.2.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="hurley (v0.2, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/script" />
+      </SOURCES>
+    </library>
+    <library name="hurley (v0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hurley-0.2/script" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.3, ruby-2.2.5-p319) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/io" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/cgi" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/drb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/irb" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/net" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rss" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/uri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/racc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/yaml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/psych" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rexml" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rinda" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/shell" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/digest" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/fiddle" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/matrix" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/ripper" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/syslog" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/openssl" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/webrick" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/optparse" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rubygems" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/x86_64-linux" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.4, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jwt-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jwt-1.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jwt-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jwt-1.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="language (v0.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/language-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/language-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="little-plugger (v1.1.4, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="little-plugger (v1.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/little-plugger-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="logging (v2.1.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/script" />
+      </SOURCES>
+    </library>
+    <library name="logging (v2.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/logging-2.1.0/script" />
+      </SOURCES>
+    </library>
+    <library name="memoist (v0.15.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/script" />
+      </SOURCES>
+    </library>
+    <library name="memoist (v0.15.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/memoist-0.15.0/script" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v3.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v3.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, ruby-2.3.1-p112) [gem]">
@@ -116,6 +574,38 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.12.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
@@ -128,6 +618,7 @@
     </library>
     <library name="nokogiri (v1.6.8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -136,6 +627,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -150,6 +642,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/open_uri_redirections-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="os (v0.9.6, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/autotest" />
+      </SOURCES>
+    </library>
+    <library name="os (v0.9.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/os-0.9.6/autotest" />
       </SOURCES>
     </library>
     <library name="pkg-config (v1.1.7, ruby-2.3.1-p112) [gem]">
@@ -190,6 +702,62 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rbtagger-0.4.7/lib" />
       </SOURCES>
     </library>
+    <library name="representable (v2.3.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/representable-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/representable-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="representable (v2.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/representable-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/representable-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v2.1.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/retriable-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/retriable-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="retriable (v2.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/retriable-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/retriable-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.7.3, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/website" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.7.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/signet-0.7.3/website" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -198,6 +766,62 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="uber (v0.0.15, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/uber-0.0.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/uber-0.0.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="uber (v0.0.15, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/uber-0.0.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/uber-0.0.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="zonefile (v1.04, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/tests" />
+      </SOURCES>
+    </library>
+    <library name="zonefile (v1.04, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/zonefile-1.04/tests" />
       </SOURCES>
     </library>
   </component>
