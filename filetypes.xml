@@ -5,6 +5,7 @@
       <removed_mapping ext="sh" type="Bash" />
       <mapping pattern="construc" type="PHP" />
       <mapping pattern="symfony-deploy" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="package-update-skel" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="..gitmodules.swp" type="PLAIN_TEXT" />
