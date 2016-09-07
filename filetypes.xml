@@ -4,6 +4,7 @@
       <mapping ext="zsh" type="Bash" />
       <removed_mapping ext="sh" type="Bash" />
       <mapping pattern="construc" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="symfony-deploy" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="package-update-skel" type="PHP" />
