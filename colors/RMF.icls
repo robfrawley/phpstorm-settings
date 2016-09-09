@@ -1,6 +1,6 @@
 <scheme name="RMF" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="36" />
+  <option name="LINE_SPACING" value="1.32" />
+  <option name="EDITOR_FONT_SIZE" value="30" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="22" />
