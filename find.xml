@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[wonka-bundle] - .../src'" />
-    <option name="defaultScopeName" value="Directory '[wonka-bundle] - .../src'" />
-    <option name="SEARCH_SCOPE" value="Directory '[wonka-bundle] - .../src'" />
+    <option name="customScope" value="Directory '[srw-client-silverpapillon] - .../src'" />
+    <option name="defaultScopeName" value="Directory '[srw-client-silverpapillon] - .../src'" />
+    <option name="SEARCH_SCOPE" value="Directory '[srw-client-silverpapillon] - .../src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
